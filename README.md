@@ -1,2 +1,2 @@
-# bash-scripts-for-hunting
+## Lets hack :D 
 This will be a repository where I have bash scripts and possibly other scripts that may be useful for pen testing and bug bounty
